@@ -4,6 +4,8 @@ An autonomous robot that detects, pursues, and captures targets using ultrasonic
 
 **YouTube Demo:** [https://youtu.be/K1cG0pb9A2w](https://youtu.be/K1cG0pb9A2w)
 
+![Party Crasher Robot](images/robot.png)
+
 ---
 
 ## Project Overview
@@ -64,6 +66,8 @@ An autonomous robot that detects, pursues, and captures targets using ultrasonic
 
 ![Claw Mechanism](images/clawing_mechanism.png)
 
+*Asymmetric dual-arm design with secondary linkages for secure grip on tapered objects*
+
 **Design Challenge:** Capture cylindrical objects (cups) with varying diameter along their height.
 
 **Solution — Asymmetric Dual-Arm Design:**
@@ -87,6 +91,10 @@ An autonomous robot that detects, pursues, and captures targets using ultrasonic
 ---
 
 ## Electronics & Wiring
+
+![Electrical Diagram](images/electrical_diagram.png)
+
+*Complete wiring schematic showing Arduino, motor shield, sensors, and feedback systems*
 
 ### Pin Configuration
 
