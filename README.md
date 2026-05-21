@@ -4,7 +4,7 @@ An autonomous robot that detects, pursues, and captures targets using ultrasonic
 
 **YouTube Demo:** [https://youtu.be/K1cG0pb9A2w](https://youtu.be/K1cG0pb9A2w)
 
-![Party Crasher Robot](images/robot.png)
+![Party Crasher Robot](robot.png)
 
 ---
 
@@ -64,7 +64,7 @@ An autonomous robot that detects, pursues, and captures targets using ultrasonic
 
 ### Claw Mechanism
 
-![Claw Mechanism](images/clawing_mechanism.png)
+![Claw Mechanism](clawing_mechanism.png)
 
 *Asymmetric dual-arm design with secondary linkages for secure grip on tapered objects*
 
@@ -92,7 +92,7 @@ An autonomous robot that detects, pursues, and captures targets using ultrasonic
 
 ## Electronics & Wiring
 
-![Electrical Diagram](images/electrical_diagram.png)
+![Electrical Diagram](electrical_diagram.png)
 
 *Complete wiring schematic showing Arduino, motor shield, sensors, and feedback systems*
 
@@ -810,10 +810,9 @@ void play() {
 Party-Crasher/
 ├── robot_code.ino              # Arduino source code
 ├── Party_Crasher_v9.f3d        # Fusion 360 CAD model
-├── images/
-│   ├── robot.png               # Assembled robot
-│   ├── electrical_diagram.png  # Wiring schematic
-│   └── clawing_mechanism.png   # Claw close-up
+├── robot.png                   # Assembled robot photo
+├── electrical_diagram.png      # Wiring schematic
+├── clawing_mechanism.png       # Claw mechanism close-up
 └── README.md                   # This file
 ```
 
